@@ -1,0 +1,348 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structures"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Data Structures"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="p"><param name="Local" value="structp.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="available"><param name="Local" value="structp.html#a6a37485bfdca8f2d8b517b6b08cde1b3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="id"><param name="Local" value="structp.html#a7441ef0865bcb3db9b8064dd7375c1ea"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="structp.html#ae5cb967283dbbdf75cb2032c1fa08fee"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="players"><param name="Local" value="structplayers.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ballsBowled"><param name="Local" value="structplayers.html#ab9c65138a0ce3424f85468a6caf2e069"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ballsPlayed"><param name="Local" value="structplayers.html#a6ea074b1d47334b6dad098df15f0c873"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="id"><param name="Local" value="structplayers.html#a7441ef0865bcb3db9b8064dd7375c1ea"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="structplayers.html#af210ba8aa117ee499b2736d246b1e5e1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="runsGiven"><param name="Local" value="structplayers.html#aa880409b30a9d17af230eeeefac719b5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="runsScored"><param name="Local" value="structplayers.html#a9abb415091069d6b4fbe11081dba421d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="wicketsTaken"><param name="Local" value="structplayers.html#a526f151ac0cb76871e66c1d87212db5c"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="teamA"><param name="Local" value="structteam_a.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="captainA"><param name="Local" value="structteam_a.html#a4adb604ef78dacb52cbc8e0a1a2573ef"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PA1"><param name="Local" value="structteam_a.html#ab8ff8629630ce8158deae60ca3649d75"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PA2"><param name="Local" value="structteam_a.html#a1d41c9e316cac5bbf585ea8098c6d31d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PA3"><param name="Local" value="structteam_a.html#a5a47266f47d9cbdd8ceea94a4fffd0ed"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PA4"><param name="Local" value="structteam_a.html#aaa3bd5f94196b286cb600bd24ac78437"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="teamB"><param name="Local" value="structteam_b.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="captainB"><param name="Local" value="structteam_b.html#a98ede32e1dbbcc8bb022453fd9cf4a38"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PB1"><param name="Local" value="structteam_b.html#aea7411b616a658503d74d9aa56a8bd93"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PB2"><param name="Local" value="structteam_b.html#a29cc48551311a7c56bd78da815826c77"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PB3"><param name="Local" value="structteam_b.html#ad7f7302cc645aad4129a800e56fc56a6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PB4"><param name="Local" value="structteam_b.html#a672a4669e487916dbf13e487d2f7a9a6"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="teams"><param name="Local" value="structteams.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="A"><param name="Local" value="structteams.html#ab161f743803bb444856fcef6594a2590"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="B"><param name="Local" value="structteams.html#a9064fd5a7b6f756f693ff4ff37be0904"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Tuple"><param name="Local" value="struct_tuple.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="choice"><param name="Local" value="struct_tuple.html#acf28cbb14bf789f5b5e4265fcd67be8b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="wonteam"><param name="Local" value="struct_tuple.html#a7a69829cd8695e1e5f9ec52831fbff8c"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="UNITY_STORAGE_T"><param name="Local" value="struct_u_n_i_t_y___s_t_o_r_a_g_e___t.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AbortFrame"><param name="Local" value="struct_u_n_i_t_y___s_t_o_r_a_g_e___t.html#add1ad6305e99da2ddf841e32dfbd8bd5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CurrentDetail1"><param name="Local" value="struct_u_n_i_t_y___s_t_o_r_a_g_e___t.html#a83cef77fb47897cfe6c4dba18d9f36c0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CurrentDetail2"><param name="Local" value="struct_u_n_i_t_y___s_t_o_r_a_g_e___t.html#a46f31dad8da75fe0c1ece891fbb3208b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CurrentTestFailed"><param name="Local" value="struct_u_n_i_t_y___s_t_o_r_a_g_e___t.html#a60446b592f7989b0f639da4132032a43"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CurrentTestIgnored"><param name="Local" value="struct_u_n_i_t_y___s_t_o_r_a_g_e___t.html#ad69a0f6ea7ca97f43b963c8218eca9d6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CurrentTestLineNumber"><param name="Local" value="struct_u_n_i_t_y___s_t_o_r_a_g_e___t.html#af263a120c12a489e9310ef9f36444128"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CurrentTestName"><param name="Local" value="struct_u_n_i_t_y___s_t_o_r_a_g_e___t.html#a6779e1e7dc5d26835d5ca7009242e77c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CurrentTestStartTime"><param name="Local" value="struct_u_n_i_t_y___s_t_o_r_a_g_e___t.html#a3720f33bed23b8db03f3a068574ead70"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CurrentTestStopTime"><param name="Local" value="struct_u_n_i_t_y___s_t_o_r_a_g_e___t.html#acec162e0bd63eb1381d06e7cf0cc8640"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NumberOfTests"><param name="Local" value="struct_u_n_i_t_y___s_t_o_r_a_g_e___t.html#a82127e77cd34e1a1c2b0281e3597d5ba"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TestFailures"><param name="Local" value="struct_u_n_i_t_y___s_t_o_r_a_g_e___t.html#a09833b8f72da6d7982f37ebc33111252"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TestFile"><param name="Local" value="struct_u_n_i_t_y___s_t_o_r_a_g_e___t.html#a190c9e7550689c6dceedff539e650336"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TestIgnores"><param name="Local" value="struct_u_n_i_t_y___s_t_o_r_a_g_e___t.html#a4fd439067fb0c1a82a5219077a513cda"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Feature1.c"><param name="Local" value="_feature1_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="players"><param name="Local" value="structplayers.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ballsBowled"><param name="Local" value="structplayers.html#ab9c65138a0ce3424f85468a6caf2e069"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ballsPlayed"><param name="Local" value="structplayers.html#a6ea074b1d47334b6dad098df15f0c873"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="id"><param name="Local" value="structplayers.html#a7441ef0865bcb3db9b8064dd7375c1ea"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="structplayers.html#af210ba8aa117ee499b2736d246b1e5e1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="runsGiven"><param name="Local" value="structplayers.html#aa880409b30a9d17af230eeeefac719b5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="runsScored"><param name="Local" value="structplayers.html#a9abb415091069d6b4fbe11081dba421d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="wicketsTaken"><param name="Local" value="structplayers.html#a526f151ac0cb76871e66c1d87212db5c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="teamA"><param name="Local" value="structteam_a.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="captainA"><param name="Local" value="structteam_a.html#a4adb604ef78dacb52cbc8e0a1a2573ef"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA1"><param name="Local" value="structteam_a.html#ab8ff8629630ce8158deae60ca3649d75"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA2"><param name="Local" value="structteam_a.html#a1d41c9e316cac5bbf585ea8098c6d31d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA3"><param name="Local" value="structteam_a.html#a5a47266f47d9cbdd8ceea94a4fffd0ed"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA4"><param name="Local" value="structteam_a.html#aaa3bd5f94196b286cb600bd24ac78437"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="teamB"><param name="Local" value="structteam_b.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="captainB"><param name="Local" value="structteam_b.html#a98ede32e1dbbcc8bb022453fd9cf4a38"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB1"><param name="Local" value="structteam_b.html#aea7411b616a658503d74d9aa56a8bd93"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB2"><param name="Local" value="structteam_b.html#a29cc48551311a7c56bd78da815826c77"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB3"><param name="Local" value="structteam_b.html#ad7f7302cc645aad4129a800e56fc56a6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB4"><param name="Local" value="structteam_b.html#a672a4669e487916dbf13e487d2f7a9a6"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="teams"><param name="Local" value="structteams.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="A"><param name="Local" value="structteams.html#ab161f743803bb444856fcef6594a2590"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="B"><param name="Local" value="structteams.html#a9064fd5a7b6f756f693ff4ff37be0904"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="displayPoolPlayers"><param name="Local" value="_feature1_8c.html#a544402029560af8c3b6b204b25954182"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getdetails"><param name="Local" value="_feature1_8c.html#ac9f39edd36722277f6f647848fa5d4c7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="takeIntegerOnly"><param name="Local" value="_feature1_8c.html#a05ec73a765e9b0aaedcce35b2149de78"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="welcome"><param name="Local" value="_feature1_8c.html#a37614c6c7ec298d0bc0d462d1fa4fc78"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Feature2.c"><param name="Local" value="_feature2_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="players"><param name="Local" value="structplayers.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ballsBowled"><param name="Local" value="structplayers.html#ab9c65138a0ce3424f85468a6caf2e069"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ballsPlayed"><param name="Local" value="structplayers.html#a6ea074b1d47334b6dad098df15f0c873"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="id"><param name="Local" value="structplayers.html#a7441ef0865bcb3db9b8064dd7375c1ea"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="structplayers.html#af210ba8aa117ee499b2736d246b1e5e1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="runsGiven"><param name="Local" value="structplayers.html#aa880409b30a9d17af230eeeefac719b5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="runsScored"><param name="Local" value="structplayers.html#a9abb415091069d6b4fbe11081dba421d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="wicketsTaken"><param name="Local" value="structplayers.html#a526f151ac0cb76871e66c1d87212db5c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="teamA"><param name="Local" value="structteam_a.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="captainA"><param name="Local" value="structteam_a.html#a4adb604ef78dacb52cbc8e0a1a2573ef"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA1"><param name="Local" value="structteam_a.html#ab8ff8629630ce8158deae60ca3649d75"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA2"><param name="Local" value="structteam_a.html#a1d41c9e316cac5bbf585ea8098c6d31d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA3"><param name="Local" value="structteam_a.html#a5a47266f47d9cbdd8ceea94a4fffd0ed"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA4"><param name="Local" value="structteam_a.html#aaa3bd5f94196b286cb600bd24ac78437"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="teamB"><param name="Local" value="structteam_b.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="captainB"><param name="Local" value="structteam_b.html#a98ede32e1dbbcc8bb022453fd9cf4a38"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB1"><param name="Local" value="structteam_b.html#aea7411b616a658503d74d9aa56a8bd93"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB2"><param name="Local" value="structteam_b.html#a29cc48551311a7c56bd78da815826c77"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB3"><param name="Local" value="structteam_b.html#ad7f7302cc645aad4129a800e56fc56a6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB4"><param name="Local" value="structteam_b.html#a672a4669e487916dbf13e487d2f7a9a6"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="teams"><param name="Local" value="structteams.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="A"><param name="Local" value="structteams.html#ab161f743803bb444856fcef6594a2590"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="B"><param name="Local" value="structteams.html#a9064fd5a7b6f756f693ff4ff37be0904"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="p"><param name="Local" value="structp.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="available"><param name="Local" value="structp.html#a6a37485bfdca8f2d8b517b6b08cde1b3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="id"><param name="Local" value="structp.html#a7441ef0865bcb3db9b8064dd7375c1ea"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="structp.html#ae5cb967283dbbdf75cb2032c1fa08fee"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="player"><param name="Local" value="_feature2_8c.html#ad9c114ef20072dec8f320c28072bebac"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="checkIDRange"><param name="Local" value="_feature2_8c.html#ac72e517921ab9144ab070d08671b6cf7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="createTeam"><param name="Local" value="_feature2_8c.html#a8e778a323c13c1883867f61e9661882c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="defineplayers"><param name="Local" value="_feature2_8c.html#a7d877ca957f96c278772642f20a49bba"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="displayTeam"><param name="Local" value="_feature2_8c.html#a08d78f5428dd9460592d1b8bc80cdd59"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getID"><param name="Local" value="_feature2_8c.html#a761110093512d9f7c86ad382ff283606"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="validateeID"><param name="Local" value="_feature2_8c.html#a23fc132cbf88ebde7dd5e0df6d810d9a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="validateID"><param name="Local" value="_feature2_8c.html#a53843564eb79c9e17709c026ab5ba280"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="p1"><param name="Local" value="_feature2_8c.html#a7abf2c042470b9621cbe061c34daa574"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="p2"><param name="Local" value="_feature2_8c.html#a9aba113dac54d3050f8ef40e80dc3185"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="p3"><param name="Local" value="_feature2_8c.html#a52135bc69257167b138d5ec2f9ac0786"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="p4"><param name="Local" value="_feature2_8c.html#adab8472f81651b41d84663da0d8c7bcf"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="p5"><param name="Local" value="_feature2_8c.html#a769b8638a954578a7d8fff4100d4a929"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="p6"><param name="Local" value="_feature2_8c.html#a053871865e76fadbc07f3dec401e9a3f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="p7"><param name="Local" value="_feature2_8c.html#a60234b31e5bf692a22de6a419b2324cc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="p8"><param name="Local" value="_feature2_8c.html#a7b5204023a57f6fa8a84eaf26b04a502"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="pool1"><param name="Local" value="_feature2_8c.html#a240942d35ba697f131bed07fb85c4510"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="team"><param name="Local" value="_feature2_8c.html#a19456551ec3ec1f9d663025ddc730078"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Feature3.c"><param name="Local" value="_feature3_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="players"><param name="Local" value="structplayers.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ballsBowled"><param name="Local" value="structplayers.html#ab9c65138a0ce3424f85468a6caf2e069"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ballsPlayed"><param name="Local" value="structplayers.html#a6ea074b1d47334b6dad098df15f0c873"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="id"><param name="Local" value="structplayers.html#a7441ef0865bcb3db9b8064dd7375c1ea"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="structplayers.html#af210ba8aa117ee499b2736d246b1e5e1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="runsGiven"><param name="Local" value="structplayers.html#aa880409b30a9d17af230eeeefac719b5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="runsScored"><param name="Local" value="structplayers.html#a9abb415091069d6b4fbe11081dba421d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="wicketsTaken"><param name="Local" value="structplayers.html#a526f151ac0cb76871e66c1d87212db5c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="teamA"><param name="Local" value="structteam_a.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="captainA"><param name="Local" value="structteam_a.html#a4adb604ef78dacb52cbc8e0a1a2573ef"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA1"><param name="Local" value="structteam_a.html#ab8ff8629630ce8158deae60ca3649d75"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA2"><param name="Local" value="structteam_a.html#a1d41c9e316cac5bbf585ea8098c6d31d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA3"><param name="Local" value="structteam_a.html#a5a47266f47d9cbdd8ceea94a4fffd0ed"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA4"><param name="Local" value="structteam_a.html#aaa3bd5f94196b286cb600bd24ac78437"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="teamB"><param name="Local" value="structteam_b.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="captainB"><param name="Local" value="structteam_b.html#a98ede32e1dbbcc8bb022453fd9cf4a38"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB1"><param name="Local" value="structteam_b.html#aea7411b616a658503d74d9aa56a8bd93"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB2"><param name="Local" value="structteam_b.html#a29cc48551311a7c56bd78da815826c77"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB3"><param name="Local" value="structteam_b.html#ad7f7302cc645aad4129a800e56fc56a6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB4"><param name="Local" value="structteam_b.html#a672a4669e487916dbf13e487d2f7a9a6"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="teams"><param name="Local" value="structteams.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="A"><param name="Local" value="structteams.html#ab161f743803bb444856fcef6594a2590"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="B"><param name="Local" value="structteams.html#a9064fd5a7b6f756f693ff4ff37be0904"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Tuple"><param name="Local" value="struct_tuple.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="choice"><param name="Local" value="struct_tuple.html#acf28cbb14bf789f5b5e4265fcd67be8b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="wonteam"><param name="Local" value="struct_tuple.html#a7a69829cd8695e1e5f9ec52831fbff8c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="checktossChoice"><param name="Local" value="_feature3_8c.html#aa32431bcc326d7bf78251d805c34dcda"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="checktossTeam"><param name="Local" value="_feature3_8c.html#ada3da63f38f312e7181dadd0cfa97d0a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="getChoice"><param name="Local" value="_feature3_8c.html#ad1cb3ad305aa481da52a8421fc561e30"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GetPlayerToss"><param name="Local" value="_feature3_8c.html#a318d028becc9f1d8333b97c5920e789e"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Feature4.c"><param name="Local" value="_feature4_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="players"><param name="Local" value="structplayers.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ballsBowled"><param name="Local" value="structplayers.html#ab9c65138a0ce3424f85468a6caf2e069"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ballsPlayed"><param name="Local" value="structplayers.html#a6ea074b1d47334b6dad098df15f0c873"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="id"><param name="Local" value="structplayers.html#a7441ef0865bcb3db9b8064dd7375c1ea"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="structplayers.html#af210ba8aa117ee499b2736d246b1e5e1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="runsGiven"><param name="Local" value="structplayers.html#aa880409b30a9d17af230eeeefac719b5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="runsScored"><param name="Local" value="structplayers.html#a9abb415091069d6b4fbe11081dba421d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="wicketsTaken"><param name="Local" value="structplayers.html#a526f151ac0cb76871e66c1d87212db5c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="teamA"><param name="Local" value="structteam_a.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="captainA"><param name="Local" value="structteam_a.html#a4adb604ef78dacb52cbc8e0a1a2573ef"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA1"><param name="Local" value="structteam_a.html#ab8ff8629630ce8158deae60ca3649d75"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA2"><param name="Local" value="structteam_a.html#a1d41c9e316cac5bbf585ea8098c6d31d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA3"><param name="Local" value="structteam_a.html#a5a47266f47d9cbdd8ceea94a4fffd0ed"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA4"><param name="Local" value="structteam_a.html#aaa3bd5f94196b286cb600bd24ac78437"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="teamB"><param name="Local" value="structteam_b.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="captainB"><param name="Local" value="structteam_b.html#a98ede32e1dbbcc8bb022453fd9cf4a38"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB1"><param name="Local" value="structteam_b.html#aea7411b616a658503d74d9aa56a8bd93"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB2"><param name="Local" value="structteam_b.html#a29cc48551311a7c56bd78da815826c77"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB3"><param name="Local" value="structteam_b.html#ad7f7302cc645aad4129a800e56fc56a6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB4"><param name="Local" value="structteam_b.html#a672a4669e487916dbf13e487d2f7a9a6"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="teams"><param name="Local" value="structteams.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="A"><param name="Local" value="structteams.html#ab161f743803bb444856fcef6594a2590"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="B"><param name="Local" value="structteams.html#a9064fd5a7b6f756f693ff4ff37be0904"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Tuple"><param name="Local" value="struct_tuple.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="choice"><param name="Local" value="struct_tuple.html#acf28cbb14bf789f5b5e4265fcd67be8b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="wonteam"><param name="Local" value="struct_tuple.html#a7a69829cd8695e1e5f9ec52831fbff8c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="bat"><param name="Local" value="_feature4_8c.html#aa7ee10599e0c384da2009a00fda6d120"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="initialisingPlayers"><param name="Local" value="_feature4_8c.html#a05f4276cd1d1685385cb28eb677f762f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="letsPlay"><param name="Local" value="_feature4_8c.html#a36f00740681730bf9b12c5270bcc7f5b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="start"><param name="Local" value="_feature4_8c.html#a9a20ddd0be02c93dfaee08cae6cb2fde"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="startFirstInnings"><param name="Local" value="_feature4_8c.html#a2065d0a8b716861f0f65e5d0e0ff5566"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="startSecondInnings"><param name="Local" value="_feature4_8c.html#a09471f340a2629741fdda0ae863a3035"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ballsplayed"><param name="Local" value="_feature4_8c.html#af86df13cc7f0c721882f49978ff96cdb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="batsmanrun"><param name="Local" value="_feature4_8c.html#a77c2a9022fbafc6e601483898649d776"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="battingTeam_totalRunsScored"><param name="Local" value="_feature4_8c.html#afa5f8e3931a789c7377e68a1552b95f8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="bowlingTeam_totalRunsScored"><param name="Local" value="_feature4_8c.html#ae3320ff08cef41c4ded84e318ef6b9e3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="bowlsbawled"><param name="Local" value="_feature4_8c.html#ad96292a1537f2fc931a8da19a0700082"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="count"><param name="Local" value="_feature4_8c.html#ad43c3812e6d13e0518d9f8b8f463ffcf"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="isFirstInnings"><param name="Local" value="_feature4_8c.html#a351f93041a6f1e2ef81acc9411878e5b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="maxBalls"><param name="Local" value="_feature4_8c.html#a13e8b11c748ec1a3074152d8ccb15338"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="netbatsmanrun"><param name="Local" value="_feature4_8c.html#ac992962432caae045d79167f13819450"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="neteamrun"><param name="Local" value="_feature4_8c.html#ac0d77c7c2d1e46fe49051607607a3848"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="playersPerTeam"><param name="Local" value="_feature4_8c.html#a6fe8da3ec4e6dcad23f7787677087fce"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="runGiven"><param name="Local" value="_feature4_8c.html#a995d1af40a0a2c73d3dfbbd053b27b9a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="toss"><param name="Local" value="_feature4_8c.html#af1026ce78f8dcd3f04108d3d572e6604"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="totalballsbawled"><param name="Local" value="_feature4_8c.html#a37bf892c8c8dcdbb440159847e95491a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="totalPlayers"><param name="Local" value="_feature4_8c.html#ada424ad2e76d889eb85fa49d26951513"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="wicketlost"><param name="Local" value="_feature4_8c.html#a6baf44ce084a5bc00ef4ad90445129e6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="wickettaken"><param name="Local" value="_feature4_8c.html#a91ffc9a1a22bcd46abfd6fbdbc747ae2"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Feature5.c"><param name="Local" value="_feature5_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="get_position"><param name="Local" value="_feature5_8c.html#af5a9f1934ac82630494f411c4f021cff"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="median_of_array"><param name="Local" value="_feature5_8c.html#a3cb5fa63b332ed307364397729e62070"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="merge_array"><param name="Local" value="_feature5_8c.html#a92701b776573928fde3ba3a0a44f76e4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="rivalGame"><param name="Local" value="_feature5_8c.html#ac9a5a83208e01e36853f14704e042743"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="showScoreCard"><param name="Local" value="_feature5_8c.html#a88cbd20f9490debdd4b186ae8fa23fea"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="sort_array"><param name="Local" value="_feature5_8c.html#a8a5e319b06e48950e36acc08bf9a1fab"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="validateInnings"><param name="Local" value="_feature5_8c.html#adb6a7222d7b69104d58aa54d1620417f"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="main.c"><param name="Local" value="main_8c.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="players"><param name="Local" value="structplayers.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ballsBowled"><param name="Local" value="structplayers.html#ab9c65138a0ce3424f85468a6caf2e069"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ballsPlayed"><param name="Local" value="structplayers.html#a6ea074b1d47334b6dad098df15f0c873"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="id"><param name="Local" value="structplayers.html#a7441ef0865bcb3db9b8064dd7375c1ea"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="name"><param name="Local" value="structplayers.html#af210ba8aa117ee499b2736d246b1e5e1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="runsGiven"><param name="Local" value="structplayers.html#aa880409b30a9d17af230eeeefac719b5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="runsScored"><param name="Local" value="structplayers.html#a9abb415091069d6b4fbe11081dba421d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="wicketsTaken"><param name="Local" value="structplayers.html#a526f151ac0cb76871e66c1d87212db5c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="teamA"><param name="Local" value="structteam_a.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="captainA"><param name="Local" value="structteam_a.html#a4adb604ef78dacb52cbc8e0a1a2573ef"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA1"><param name="Local" value="structteam_a.html#ab8ff8629630ce8158deae60ca3649d75"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA2"><param name="Local" value="structteam_a.html#a1d41c9e316cac5bbf585ea8098c6d31d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA3"><param name="Local" value="structteam_a.html#a5a47266f47d9cbdd8ceea94a4fffd0ed"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PA4"><param name="Local" value="structteam_a.html#aaa3bd5f94196b286cb600bd24ac78437"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="teamB"><param name="Local" value="structteam_b.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="captainB"><param name="Local" value="structteam_b.html#a98ede32e1dbbcc8bb022453fd9cf4a38"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB1"><param name="Local" value="structteam_b.html#aea7411b616a658503d74d9aa56a8bd93"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB2"><param name="Local" value="structteam_b.html#a29cc48551311a7c56bd78da815826c77"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB3"><param name="Local" value="structteam_b.html#ad7f7302cc645aad4129a800e56fc56a6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PB4"><param name="Local" value="structteam_b.html#a672a4669e487916dbf13e487d2f7a9a6"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="teams"><param name="Local" value="structteams.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="A"><param name="Local" value="structteams.html#ab161f743803bb444856fcef6594a2590"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="B"><param name="Local" value="structteams.html#a9064fd5a7b6f756f693ff4ff37be0904"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Tuple"><param name="Local" value="struct_tuple.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="choice"><param name="Local" value="struct_tuple.html#acf28cbb14bf789f5b5e4265fcd67be8b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="wonteam"><param name="Local" value="struct_tuple.html#a7a69829cd8695e1e5f9ec52831fbff8c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="createTeam"><param name="Local" value="main_8c.html#a8e778a323c13c1883867f61e9661882c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="defineplayers"><param name="Local" value="main_8c.html#a7d877ca957f96c278772642f20a49bba"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="displayPoolPlayers"><param name="Local" value="main_8c.html#a544402029560af8c3b6b204b25954182"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="displayTeam"><param name="Local" value="main_8c.html#a08d78f5428dd9460592d1b8bc80cdd59"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="main"><param name="Local" value="main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="rivalGame"><param name="Local" value="main_8c.html#af8af5272f8ce205e0a05245282555adb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="showScoreCard"><param name="Local" value="main_8c.html#ab4724e4919f3c995dea97dce6b0dd226"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="start"><param name="Local" value="main_8c.html#a60de64d75454385b23995437f1d72669"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="validateInnings"><param name="Local" value="main_8c.html#acf7a012a65aba93ad2dbd4b243dab4bd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="welcome"><param name="Local" value="main_8c.html#a37614c6c7ec298d0bc0d462d1fa4fc78"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="unity.h"><param name="Local" value="unity_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="unity_internals.h"><param name="Local" value="unity__internals_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="virtual_cricket.h"><param name="Local" value="virtual__cricket_8h_source.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Globals"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="globals_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Typedefs"><param name="Local" value="globals_type.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
